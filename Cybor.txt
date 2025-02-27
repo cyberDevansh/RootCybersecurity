@@ -1,0 +1,155 @@
+🚀 Cybersecurity Learning Roadmap (Beginner to Advanced)
+🟢 Phase 1: Foundations of Cybersecurity (Basics)
+Goal: Build a strong understanding of cybersecurity fundamentals, networking, and system security.
+Duration: 1-2 months
+
+1️⃣ Understanding Cybersecurity Basics
+🔹 What is Cybersecurity?
+🔹 Importance & Real-World Applications
+🔹 CIA Triad (Confidentiality, Integrity, Availability)
+🔹 Types of Cyber Threats: Malware, Phishing, Ransomware, Social Engineering
+🔹 Cybersecurity Domains: Offensive, Defensive, Forensics, Compliance
+
+📝 Tasks:
+✅ Research & write a summary on cybersecurity domains
+✅ Identify real-world cyberattacks and their impact
+
+2️⃣ Networking Essentials for Cybersecurity
+🔹 OSI & TCP/IP Models
+🔹 IP Addressing, Subnetting, and CIDR
+🔹 Ports & Protocols (HTTP, HTTPS, FTP, SSH, DNS, etc.)
+🔹 Packet Flow & Analysis using Wireshark
+🔹 Firewalls, NAT, VPNs & Proxies
+
+📝 Tasks:
+✅ Setup and analyze network traffic using Wireshark
+✅ Practice subnetting exercises
+
+🔨 Project:
+🚀 "Network Traffic Analysis" – Monitor and analyze network packets to detect suspicious activities
+
+3️⃣ Linux & Windows Fundamentals
+🔹 Introduction to Linux (Kali, Ubuntu) & Basic Commands
+🔹 Windows Security & PowerShell Basics
+🔹 File Permissions & User Management
+🔹 Log Analysis & System Hardening
+
+📝 Tasks:
+✅ Practice 30 essential Linux commands
+✅ Set up a Linux and Windows VM for practical exercises
+
+🔨 Project:
+🚀 "Automating System Security Checks" – Create a script to automate system security audits
+
+🟡 Phase 2: Ethical Hacking & Penetration Testing
+Goal: Learn offensive security techniques and penetration testing methodologies.
+Duration: 2-3 months
+
+4️⃣ Ethical Hacking & Reconnaissance
+🔹 Introduction to Penetration Testing
+🔹 Footprinting & Information Gathering (WHOIS, nslookup, Shodan)
+🔹 Passive & Active Reconnaissance
+🔹 Google Dorking for OSINT
+
+📝 Tasks:
+✅ Perform reconnaissance on a test website (Legally, using tools like Shodan)
+✅ Identify open ports & services on a target system
+
+🔨 Project:
+🚀 "OSINT Investigation" – Gather information on a test company
+
+5️⃣ Vulnerability Scanning & Exploitation
+🔹 Scanning Networks using Nmap, Nessus
+🔹 Web Application Security Basics (OWASP Top 10)
+🔹 Exploiting Vulnerabilities with Metasploit
+🔹 Brute Force Attacks & Password Cracking (Hydra, JohnTheRipper)
+
+📝 Tasks:
+✅ Scan a test network and document vulnerabilities
+✅ Exploit a vulnerable machine in a safe lab environment
+
+🔨 Project:
+🚀 "Penetration Testing Report" – Perform a full penetration test on a VM and document findings
+
+🟠 Phase 3: Web & Application Security
+Goal: Secure web applications & APIs.
+Duration: 1-2 months
+
+6️⃣ Web Security & Bug Bounty Hunting
+🔹 SQL Injection, XSS, CSRF, IDOR
+🔹 Web Security Tools: Burp Suite, Nikto, Dirb
+🔹 API Security & Server Misconfigurations
+
+📝 Tasks:
+✅ Find and exploit SQL injection on a test site
+✅ Practice web security labs (PortSwigger Web Security Academy)
+
+🔨 Project:
+🚀 "Capture The Flag (CTF) Web Challenge" – Solve real-world CTF challenges
+
+🟣 Phase 4: Defensive Security & Blue Teaming
+Goal: Learn security monitoring, SIEM, digital forensics.
+Duration: 2-3 months
+
+7️⃣ Defensive Security & Incident Response
+🔹 Security Monitoring with SIEM (Splunk, ELK)
+🔹 Intrusion Detection Systems (Snort, Suricata)
+🔹 Log Analysis & Threat Intelligence
+
+📝 Tasks:
+✅ Set up a basic SIEM and analyze logs
+✅ Detect and respond to a simulated attack
+
+🔨 Project:
+🚀 "SIEM Log Analysis & Threat Hunting"
+
+8️⃣ Digital Forensics & Malware Analysis
+🔹 File System Forensics (Autopsy, Volatility)
+🔹 Memory Analysis & Reverse Engineering Basics
+🔹 Detecting & Analyzing Malware Behavior
+
+📝 Tasks:
+✅ Perform forensic analysis on a test system
+✅ Analyze a malware sample in a safe environment
+
+🔨 Project:
+🚀 "Incident Response Case Study" – Analyze an attack and create a forensic report
+
+🔴 Phase 5: Red Teaming & Advanced Cybersecurity
+Goal: Master red teaming, exploit development, and cloud security.
+Duration: 3+ months
+
+9️⃣ Advanced Penetration Testing & Red Teaming
+🔹 Post-Exploitation & Privilege Escalation
+🔹 Active Directory Attacks (BloodHound, Mimikatz)
+🔹 Custom Malware & Evasion Techniques
+
+📝 Tasks:
+✅ Perform privilege escalation on a test machine
+✅ Create a custom payload with Veil or Empire
+
+🔨 Project:
+🚀 "Adversary Simulation & Red Team Report"
+
+🔟 Cloud Security & IoT Security
+🔹 AWS, Azure Security Best Practices
+🔹 Container Security (Docker, Kubernetes)
+🔹 IoT Penetration Testing
+
+📝 Tasks:
+✅ Perform a security assessment on a cloud environment
+✅ Scan & secure an IoT device
+
+🔨 Project:
+🚀 "Cloud Security Audit"
+
+🏆 Final Phase: Certification & Career Preparation
+🔹 Prepare for Certifications:
+
+CompTIA Security+ (Beginner)
+CEH (Certified Ethical Hacker)
+OSCP (Offensive Security Certified Professional)
+CISSP (Advanced Security)
+🔹 Build a Cybersecurity Portfolio (GitHub, Write Blogs)
+🔹 Apply for Bug Bounties & CTF Challenges
+🔹 Network with Professionals (LinkedIn, Twitter, Conferences)
