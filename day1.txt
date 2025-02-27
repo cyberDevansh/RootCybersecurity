@@ -17,4 +17,28 @@ Some cybersecurity domains are-
 6.forensic and incident response team- in this field we investigate and respond to security incidents and cyberattacks.
 
 Real world cyberattacks--
-1.Ransomware attack in 2017 on windows. In this hackers created a Ransomware 
+1.WannaCry Ransomware attack in 2017 on windows. The WannaCry ransomware attack spread globally in May 2017, targeting Windows computers using a security vulnerability in Microsoft SMB (Server Message Block) protocol.
+
+The ransomware was based on an exploit called EternalBlue, originally developed by the NSA (National Security Agency) but later leaked by a hacker group called Shadow Brokers.
+Once infected, the ransomware encrypted users’ files and demanded a ransom payment in Bitcoin to unlock them.
+Impact:
+More than 200,000 computers in 150+ countries were infected.
+Hospitals, banks, and businesses were severely affected.
+The UK’s National Health Service (NHS) had to cancel thousands of medical appointments.
+The estimated financial loss was $4 billion worldwide.
+Microsoft released an emergency patch, and security experts created a "kill switch" to stop further infections.
+📌 Key Lesson: Always keep software updated and apply security patches to prevent attacks.
+
+
+
+2.Equifax data breachi in 2017.
+Equifax, one of the largest credit reporting agencies, suffered a massive data breach in July 2017 due to a vulnerability in Apache Struts, a web application framework.
+
+Hackers exploited an unpatched security flaw, allowing them to access Equifax’s servers.
+The breach went undetected for 76 days, during which hackers stole sensitive personal information.
+🔹 Impact:
+147 million people’s data was exposed, including names, Social Security numbers, birthdates, and credit card details.
+Equifax faced $700 million in fines and lawsuits.
+Millions of Americans faced identity theft risks and fraud.
+The company’s reputation was severely damaged.
+📌 Key Lesson: Regular security audits and prompt patching of vulnerabilities are crucial for data protection.
