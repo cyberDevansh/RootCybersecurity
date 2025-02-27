@@ -1,0 +1,20 @@
+✅ Task 1: Research and write a 1-page summary on:
+
+Cybersecurity domains (explain at least 5)
+Two real-world cyberattacks (How they happened & their impact).
+✅ Task 2: Create a Mind Map of Cybersecurity Domains (use any tool like Canva, Figma, or hand-drawn).
+
+
+
+Answer:
+Cybersecurity domains are the specific fields to protect specific area such as network, personal details, bank details, cloud data and application data.
+Some cybersecurity domains are-
+1.network security- IN this field we protect network from cyber attacks from unauthorized access from hackers.
+2.offensive security- in this field we attack on our server, network, application, and all system to fiind vunerabilitis before real hackers attack.
+3.cloud security- in this field we protect cloud data i.e. which is uploaded on the network or say internet from cyber attacks.
+4.webapplication security-in this we protect web applications from hackers to protect credential data loss and leak of our users as well as company.
+5.defensive security - in this field we defends against attacks by creating firewalls.
+6.forensic and incident response team- in this field we investigate and respond to security incidents and cyberattacks.
+
+Real world cyberattacks--
+1.Ransomware attack in 2017 on windows. In this hackers created a Ransomware 
