@@ -31,7 +31,7 @@ Microsoft released an emergency patch, and security experts created a "kill swit
 
 
 
-2.Equifax data breachi in 2017.
+2.Equifax data breach in 2017.
 Equifax, one of the largest credit reporting agencies, suffered a massive data breach in July 2017 due to a vulnerability in Apache Struts, a web application framework.
 
 Hackers exploited an unpatched security flaw, allowing them to access Equifax’s servers.
