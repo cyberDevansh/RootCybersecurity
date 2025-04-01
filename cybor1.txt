@@ -1,0 +1,80 @@
+🔥 Phase 1 Roadmap: Foundations of Cybersecurity
+Goal: Build a strong foundation in cybersecurity basics, networking, and system security.
+Duration: 1-2 months (Hands-on practice, tasks, projects, and GitHub updates).
+📍 Complete Roadmap for Phase 1
+You need to complete all topics + tasks before moving to the next phase.
+
+✅ 1. Introduction to Cybersecurity (1-2 Days)
+🔹 What is Cybersecurity?
+🔹 Importance & Real-World Applications
+🔹 CIA Triad (Confidentiality, Integrity, Availability)
+🔹 Types of Cyber Threats: Malware, Phishing, Ransomware, Social Engineering
+🔹 Cybersecurity Domains (Offensive, Defensive, Forensics, Cloud, IoT, etc.)
+
+📝 Tasks:
+✅ Research and write a 1-page summary on:
+
+Cybersecurity domains
+Two real-world cyberattacks and their impact
+✅ Create a mind map of Cybersecurity Domains
+📌 Upload to GitHub
+✅ 2. Networking Essentials for Cybersecurity (7 Days)
+🔹 Networking Basics: OSI Model, TCP/IP Model, IP Addressing
+🔹 Subnetting & CIDR
+🔹 Ports & Protocols: HTTP, HTTPS, FTP, SSH, DNS, etc.
+🔹 Packet Flow & Traffic Analysis (Wireshark)
+🔹 Firewalls, NAT, VPNs & Proxies
+
+📝 Tasks:
+✅ Practice subnetting exercises
+✅ Analyze network packets using Wireshark
+✅ Document important ports & protocols in a cheat sheet
+📌 Upload to GitHub
+
+🔨 Project:
+🚀 "Network Traffic Analysis" – Monitor and analyze network packets to detect suspicious activities
+
+✅ 3. Linux & Windows Fundamentals (7 Days)
+🔹 Linux Basics: Kali Linux, Ubuntu, Basic Commands
+🔹 Windows Security & PowerShell Basics
+🔹 File Permissions & User Management
+🔹 Log Analysis & System Hardening
+
+📝 Tasks:
+✅ Practice 30 essential Linux commands
+✅ Set up a Linux & Windows VM for practical exercises
+✅ Analyze Windows event logs & Linux system logs
+📌 Upload to GitHub
+
+🔨 Project:
+🚀 "Automating System Security Checks" – Create a script to automate system security audits
+
+✅ 4. Cryptography Basics (5 Days)
+🔹 What is Cryptography?
+🔹 Types: Symmetric vs Asymmetric Encryption
+🔹 Common Encryption Algorithms: AES, RSA, SHA-256
+🔹 Encoding vs Encryption vs Hashing
+🔹 Using OpenSSL for encryption
+
+📝 Tasks:
+✅ Encrypt & decrypt messages using OpenSSL
+✅ Create a secure password hashing script
+📌 Upload to GitHub
+
+🔨 Project:
+🚀 "Secure Password Manager" – Build a simple password manager with encryption
+
+✅ 5. Cybersecurity Laws & Ethics (3 Days)
+🔹 Ethical Hacking & Cybersecurity Laws (GDPR, CCPA, IT Act 2000)
+🔹 Types of Hackers: White Hat, Black Hat, Gray Hat
+🔹 Bug Bounty & Responsible Disclosure
+
+📝 Tasks:
+✅ Research cybersecurity laws in India & globally
+✅ Write a responsible disclosure report for a security flaw
+📌 Upload to GitHub
+
+🏆 Final Milestone for Phase 1:
+📌 Complete all tasks, projects & upload to GitHub
+📌 Prepare for a Phase 1 test covering networking, Linux, cryptography, and cybersecurity basics
+📌 After clearing the test, move to Phase 2 (Ethical Hacking & Penetration Testing)

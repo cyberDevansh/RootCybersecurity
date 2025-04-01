@@ -1,0 +1,44 @@
+✅ Task 1: Research and write a 1-page summary on:
+
+Cybersecurity domains (explain at least 5)
+Two real-world cyberattacks (How they happened & their impact).
+✅ Task 2: Create a Mind Map of Cybersecurity Domains (use any tool like Canva, Figma, or hand-drawn).
+
+
+
+Answer:
+Cybersecurity domains are the specific fields to protect specific area such as network, personal details, bank details, cloud data and application data.
+Some cybersecurity domains are-
+1.network security- IN this field we protect network from cyber attacks from unauthorized access from hackers.
+2.offensive security- in this field we attack on our server, network, application, and all system to fiind vunerabilitis before real hackers attack.
+3.cloud security- in this field we protect cloud data i.e. which is uploaded on the network or say internet from cyber attacks.
+4.webapplication security-in this we protect web applications from hackers to protect credential data loss and leak of our users as well as company.
+5.defensive security - in this field we defends against attacks by creating firewalls.
+6.forensic and incident response team- in this field we investigate and respond to security incidents and cyberattacks.
+
+Real world cyberattacks--
+1.WannaCry Ransomware attack in 2017 on windows. The WannaCry ransomware attack spread globally in May 2017, targeting Windows computers using a security vulnerability in Microsoft SMB (Server Message Block) protocol.
+
+The ransomware was based on an exploit called EternalBlue, originally developed by the NSA (National Security Agency) but later leaked by a hacker group called Shadow Brokers.
+Once infected, the ransomware encrypted users’ files and demanded a ransom payment in Bitcoin to unlock them.
+Impact:
+More than 200,000 computers in 150+ countries were infected.
+Hospitals, banks, and businesses were severely affected.
+The UK’s National Health Service (NHS) had to cancel thousands of medical appointments.
+The estimated financial loss was $4 billion worldwide.
+Microsoft released an emergency patch, and security experts created a "kill switch" to stop further infections.
+📌 Key Lesson: Always keep software updated and apply security patches to prevent attacks.
+
+
+
+2.Equifax data breach in 2017.
+Equifax, one of the largest credit reporting agencies, suffered a massive data breach in July 2017 due to a vulnerability in Apache Struts, a web application framework.
+
+Hackers exploited an unpatched security flaw, allowing them to access Equifax’s servers.
+The breach went undetected for 76 days, during which hackers stole sensitive personal information.
+🔹 Impact:
+147 million people’s data was exposed, including names, Social Security numbers, birthdates, and credit card details.
+Equifax faced $700 million in fines and lawsuits.
+Millions of Americans faced identity theft risks and fraud.
+The company’s reputation was severely damaged.
+📌 Key Lesson: Regular security audits and prompt patching of vulnerabilities are crucial for data protection.
